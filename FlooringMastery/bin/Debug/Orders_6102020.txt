@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,"CoolBeans, Inc",IN,6.00,Wood,399,5.15,4.75,2054.85,1895.25,237.01,4187.11

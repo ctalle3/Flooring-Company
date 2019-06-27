@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Jim,OH,6.25,Laminate,10000,1.75,2.10,1578.50,1894.20,217.04,3689.74
+1,"Merica",PA,6.75,Wood,100,5.15,4.75,515.00,475.00,66.82,1056.82
+2,"SWC, INC",MI,5.75,Tile,1000,3.50,4.15,3500.00,4150.00,439.88,8089.88
+5,"Billy",PA,6.75,Carpet,605,2.25,2.10,1361.25,1270.50,177.64,2809.39
